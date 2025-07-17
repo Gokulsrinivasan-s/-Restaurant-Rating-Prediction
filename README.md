@@ -67,6 +67,8 @@ Learned data preprocessing, feature encoding, and model evaluation techniques.
 
 7)Output:
 
-
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/4db042ee-a426-4b3d-9855-62aa14fdecb2" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/d9ad86a8-728d-4dc5-9f6d-6bbdb390963e" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/838caf64-e7b0-443c-be8b-54ad575d4007" />
 
 
